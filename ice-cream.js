@@ -11,5 +11,3 @@ console.log(iceCreamFlavoursNew[0]);
 console.log(iceCreamFlavoursNew[5]);
 console.log(iceCreamFlavoursNew.length);
 
-
-
